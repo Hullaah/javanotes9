@@ -1,2 +1,3 @@
 # javanotes9
-Introduction to Programming Using Java Version 9.0, JavaFX Edition  (May, 2022) Author:  David J. Eck  (eck@hws.edu)
+## Introduction to Programming Using Java Version 9.0, JavaFX Edition
+This repo contains the exercises from the book javanotes 9 by David J. Eck
